@@ -1,0 +1,10 @@
+K:\VS_Projects\Test_3\XtensiveTest\LambdaOptimizer\bin\Debug\LambdaOptimizer.dll
+K:\VS_Projects\Test_3\XtensiveTest\LambdaOptimizer\bin\Debug\LambdaOptimizer.pdb
+K:\VS_Projects\Test_3\XtensiveTest\LambdaOptimizer\obj\Debug\LambdaOptimizer.csproj.CoreCompileInputs.cache
+K:\VS_Projects\Test_3\XtensiveTest\LambdaOptimizer\obj\Debug\LambdaOptimizer.dll
+K:\VS_Projects\Test_3\XtensiveTest\LambdaOptimizer\obj\Debug\LambdaOptimizer.pdb
+K:\VS_Projects\OptimizerApp\OptimizerApp\LambdaOptimizer\bin\Debug\LambdaOptimizer.dll
+K:\VS_Projects\OptimizerApp\OptimizerApp\LambdaOptimizer\bin\Debug\LambdaOptimizer.pdb
+K:\VS_Projects\OptimizerApp\OptimizerApp\LambdaOptimizer\obj\Debug\LambdaOptimizer.csproj.CoreCompileInputs.cache
+K:\VS_Projects\OptimizerApp\OptimizerApp\LambdaOptimizer\obj\Debug\LambdaOptimizer.dll
+K:\VS_Projects\OptimizerApp\OptimizerApp\LambdaOptimizer\obj\Debug\LambdaOptimizer.pdb
